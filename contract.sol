@@ -1,9 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2020-03-09
-*/
-
-// File: contracts/acl/IACL.sol
-
 /*
  * SPDX-License-Identitifer:    MIT
  */
